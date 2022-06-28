@@ -1,0 +1,12 @@
+body{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 250px;
+    margin-right: 250px;
+    padding: 25px;
+    border-style: double;
+    color: rgb(9, 242, 250);
+    size: 25px;
+    border-radius: 30px;
+    border-color: aliceblue;
+}
