@@ -8,8 +8,15 @@ import { Component, OnInit } from '@angular/core';
 export class RecoverComponent implements OnInit {
 
   constructor() { }
+  usuario:any = [{}]
+  email:any = [{}]
+  password:any = [{}]
+
 
   ngOnInit(): void {
+  }
+  enviar(){
+    console.log(this.usuario,this.email,this.password)
   }
 
 }
